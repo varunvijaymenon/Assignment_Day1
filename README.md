@@ -6,7 +6,7 @@
 ### Three ways to create objects:
 ###### 1. Object Literals:
 
-<img src ="https://user-images.githubusercontent.com/66670426/143689563-4d428235-9afd-4586-9577-088a4a38d3a2.jpg" height="700" width="400">
+<img src ="https://user-images.githubusercontent.com/66670426/143689563-4d428235-9afd-4586-9577-088a4a38d3a2.jpg" height="300" width="800">
 
 ###### 2. New Keyword:
 

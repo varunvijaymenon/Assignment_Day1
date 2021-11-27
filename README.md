@@ -10,8 +10,8 @@
 
 ###### 2. New Keyword:
 
-![pasted-image-36](https://user-images.githubusercontent.com/66670426/143689709-0c7d4e1f-f689-428a-9fe6-eaece24a7745.jpg)
+<img src="https://user-images.githubusercontent.com/66670426/143689709-0c7d4e1f-f689-428a-9fe6-eaece24a7745.jpg" height="200" width="900">
 
 ###### 3. Using Object.create():
 
-![pasted-image-38](https://user-images.githubusercontent.com/66670426/143689730-6cf1393d-5f2b-4b8f-85c8-b2f76940c757.jpg)
+<img src="https://user-images.githubusercontent.com/66670426/143689730-6cf1393d-5f2b-4b8f-85c8-b2f76940c757.jpg" height="200" width="900">

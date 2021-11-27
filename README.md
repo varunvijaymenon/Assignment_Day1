@@ -18,7 +18,7 @@
 
 ###### 3. Using Object.create():
 
-<img src="https://user-images.githubusercontent.com/66670426/143689730-6cf1393d-5f2b-4b8f-85c8-b2f76940c757.jpg" height="200" width="1000">
+<img src="https://user-images.githubusercontent.com/66670426/143689730-6cf1393d-5f2b-4b8f-85c8-b2f76940c757.jpg" height="300" width="900">
 
 
 ### How to access properties of an Object:
@@ -26,7 +26,7 @@
 #### There are two ways of accessing properties of an object:
 
 ###### 1. Dot Notation:
-<img src="https://user-images.githubusercontent.com/66670426/143690955-6d9f6d6f-8d07-4491-b9aa-ef6964ce4176.jpg" height="200" width="1000">
+<img src="https://user-images.githubusercontent.com/66670426/143690955-6d9f6d6f-8d07-4491-b9aa-ef6964ce4176.jpg" height="200" width="900">
 
 ###### 2. Bracket Notation:
 <img src="https://user-images.githubusercontent.com/66670426/143690978-f065ffa1-ae9f-4c74-8250-06e0259cd502.jpg" height="200" width="900">
